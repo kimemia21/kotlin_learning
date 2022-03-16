@@ -1,0 +1,14 @@
+FUnctions
+   We define them using the keyword "fun"
+   We use them to group code that does some particular jobs
+   function can also be used to givr back a resulting value to its caller.
+   The function defination concsist if a unique name after thw kryword and parenthesis after the unoque name
+   - the parenthesis is where you put parameters
+   example  
+   fun greetings(){
+
+   }
+   After thr definations the function body is denoted by curly braces
+   inside the body id where you write the code
+   A function gives back a resulting valur to the caller if there is a  returning statemnet at the end od the code.
+   -Functions  defination with a return function  must have a return type specified after the parenthesis. 

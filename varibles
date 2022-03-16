@@ -1,0 +1,22 @@
+what is a variable
+is a container that holds a value.
+it's actually a space in ram
+we use the key word VAR  OR val to define variables
+Example: var name="john"  //this is muteable
+         val greeting="hello world" //this is imuteble
+
+
+variable types
+* numbers
+BYTE ,SHORT, INT , LONG
+     numbers with decimals Floating point
+     double 
+     float
+*strings 'this are words'
+arrays
+boolean
+
+
+concepts
+    cocatention
+    experction

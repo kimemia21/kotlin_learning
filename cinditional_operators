@@ -1,0 +1,12 @@
+conditional Operators
+  There are expressions that always
+  result into a boolean data type.
+
+  .< less than
+  .> greater than
+  == equal to
+  != not equal to
+  <= less than or equal to
+  >= greater than or equal to
+  .is  compare an object to a type
+  ! is  opposite of is

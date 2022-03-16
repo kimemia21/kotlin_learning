@@ -1,0 +1,7 @@
+control flow
+   we use if keyword to make descisions
+   based on a conditional expressions.
+    -   The if keyword is followed by a conditional expression inside the parenthesis
+    - The if statement has a body denoted by curly braces
+    -The if body executes when the condition is true
+    -The if body can also have an optional else statement that begins with the keyword "else" right after
