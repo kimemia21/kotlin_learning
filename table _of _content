@@ -3,6 +3,21 @@ kotlin topics
       types 
     comparisons /Operatorscontrol folw 
     loops 
+fun main() {
+  var fruits=arrayOf("mangoes","apples","bananas","oranges") 
+  for (fruit in fruits){
+      println("a loop"+fruit )
+  } 
+var num = 0
+while(num < 10 ){
+    println("$num still less than 10")
+    num ++
+}
+
+}
+
+
+
     Functions
     opp
        inheritance
